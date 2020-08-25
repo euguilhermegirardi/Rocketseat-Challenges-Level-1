@@ -49,5 +49,5 @@ For this challenge I have the following tests:
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
 
 <p align="center">
-  <img  src="./github/node-test.png">
+  <img  src="./github/challenge.png">
 </p>
