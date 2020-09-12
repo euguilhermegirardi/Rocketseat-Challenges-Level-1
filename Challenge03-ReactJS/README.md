@@ -1,12 +1,12 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
 <h3 align="center">
-  Desafio 03: ReactJS Concepts
+  Challenge 03: ReactJS Concepts
 </h3>
 
 <blockquote align="center">“Do your best, but always on time”!</blockquote>
 
-## :rocket: Sobre o desafio
+## :rocket: About the challenge
 
 In this challenge, I must create an application to practice what I have learned in ReactJS!
 
